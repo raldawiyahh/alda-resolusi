@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-07-13T22:46:16.460Z" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0" etag="cEhcWJSWQ2B_bXafGdwj" version="21.6.2" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-07-13T22:53:33.740Z" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0" etag="DFiMs0o9Pi3e9SFO2P1j" version="21.6.2" type="github" pages="3">
   <diagram name="Halaman-1" id="FzSfXKgSNjZvwmdL0iKT">
     <mxGraphModel dx="1240" dy="746" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -487,6 +487,23 @@
         </mxCell>
         <mxCell id="ojiJrw0_y6i-DsqAj5lc-25" value="Login" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
           <mxGeometry x="19" width="100" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="lARTvTpie1Eitifrmc2V" name="Halaman-3">
+    <mxGraphModel dx="1054" dy="634" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="TLU09np0dDhVl-VScWZZ-1" value="&lt;i&gt;Activity Diagram Project&lt;/i&gt;" style="swimlane;html=1;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;startSize=20;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="114" y="55" width="600" height="530" as="geometry" />
+        </mxCell>
+        <mxCell id="TLU09np0dDhVl-VScWZZ-2" value="&lt;i&gt;Project Manager&lt;/i&gt;" style="swimlane;html=1;startSize=20;" vertex="1" parent="TLU09np0dDhVl-VScWZZ-1">
+          <mxGeometry y="20" width="310" height="510" as="geometry" />
+        </mxCell>
+        <mxCell id="TLU09np0dDhVl-VScWZZ-3" value="Sistem" style="swimlane;html=1;startSize=20;" vertex="1" parent="TLU09np0dDhVl-VScWZZ-1">
+          <mxGeometry x="310" y="20" width="290" height="510" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
