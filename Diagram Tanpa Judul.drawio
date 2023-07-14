@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-07-14T23:14:57.104Z" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0" etag="PbSd-19tIC6YfVshbbXD" version="21.6.2" type="github" pages="9">
+<mxfile host="app.diagrams.net" modified="2023-07-14T23:19:40.053Z" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0" etag="LrIeE6OWHeNnJChTYnAB" version="21.6.2" type="github" pages="9">
   <diagram name="Halaman-1" id="FzSfXKgSNjZvwmdL0iKT">
     <mxGraphModel dx="1208" dy="714" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1453,7 +1453,7 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="hGsbltpE1oRIcttB5uhN-1" value="&lt;i&gt;Activity Diagram &lt;/i&gt;Lihat&lt;i&gt; Mockup&lt;br&gt;&lt;/i&gt;" style="swimlane;html=1;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;startSize=20;whiteSpace=wrap;" vertex="1" parent="1">
+        <mxCell id="hGsbltpE1oRIcttB5uhN-1" value="&lt;i&gt;Activity Diagram &lt;/i&gt;Lihat&lt;i&gt; Project&lt;br&gt;&lt;/i&gt;" style="swimlane;html=1;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;startSize=20;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="113" y="60" width="600" height="660" as="geometry" />
         </mxCell>
         <mxCell id="hGsbltpE1oRIcttB5uhN-2" value="&lt;i&gt;Lead Developer&lt;br&gt;&lt;/i&gt;" style="swimlane;html=1;startSize=20;" vertex="1" parent="hGsbltpE1oRIcttB5uhN-1">
@@ -1667,18 +1667,18 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="ovJ-AmxfPUld136W0g8C-1" value="Mockup Lead " style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
+        <mxCell id="ovJ-AmxfPUld136W0g8C-1" value="Project Lead " style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
           <mxGeometry x="19" width="201" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
   <diagram id="6KL9dCcg9UNfOuse6jOl" name="Halaman-9">
-    <mxGraphModel dx="1726" dy="1020" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1208" dy="714" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="s4T7mHjl6P3VqhdHgzII-1" value="&lt;i&gt;Activity Diagram &lt;/i&gt;Lihat&lt;i&gt; Mockup&lt;br&gt;&lt;/i&gt;" style="swimlane;html=1;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;startSize=20;whiteSpace=wrap;" vertex="1" parent="1">
+        <mxCell id="s4T7mHjl6P3VqhdHgzII-1" value="&lt;i&gt;Activity Diagram &lt;/i&gt;Lihat&lt;i&gt; Project&lt;br&gt;&lt;/i&gt;" style="swimlane;html=1;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;startSize=20;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="113" y="60" width="600" height="660" as="geometry" />
         </mxCell>
         <mxCell id="s4T7mHjl6P3VqhdHgzII-2" value="&lt;i&gt;Developer&lt;br&gt;&lt;/i&gt;" style="swimlane;html=1;startSize=20;" vertex="1" parent="s4T7mHjl6P3VqhdHgzII-1">
@@ -1889,7 +1889,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="2oHr9jrJtVNDWxfIJtoJ-1" value="Mockup Dev " style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
+        <mxCell id="2oHr9jrJtVNDWxfIJtoJ-1" value="Project Dev " style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
           <mxGeometry x="19" width="201" height="40" as="geometry" />
         </mxCell>
       </root>
